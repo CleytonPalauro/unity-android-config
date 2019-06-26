@@ -50,3 +50,5 @@
 * Configure o caminho do JDK na caixa *Edit>Preferences>External Tools*;
 ## Gerando a Build para Android;
 * Documentação da Unity para [Building apps for Android](https://docs.unity3d.com/Manual/android-BuildProcess.html)
+
+[Download APK](https://drive.google.com/file/d/1RggX_95cpDXQA-EyhZKE4KEDxIgzOrYW/view)
