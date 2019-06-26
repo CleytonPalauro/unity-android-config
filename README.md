@@ -59,6 +59,7 @@
 # Gerando a Build para Android
 
 ## Documentação da Unity:
-* [Por dentro do processo de criação do Android](https://docs.unity3d.com/Manual/android-BuildProcess.html)
+* [Por dentro do processo de criação do Android](https://docs.unity3d.com/Manual/android-BuildProcess.html);
+* [Configurações do Android Player](https://docs.unity3d.com/Manual/class-PlayerSettingsAndroid.html).
 
 [Download APK](https://drive.google.com/file/d/1RggX_95cpDXQA-EyhZKE4KEDxIgzOrYW/view)
